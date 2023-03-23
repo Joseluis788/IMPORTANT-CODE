@@ -26,6 +26,8 @@ https://bbbootstrap.com/snippets/meet-our-team-section-65051758
 
 https://bbbootstrap.com/snippets/footer-social-media-icons-and-get-touch-button-59075507
 
+https://bbbootstrap.com/snippets/reactjs-simple-fixed-sidebar-menu-81867970
+
 https://bbbootstrap.com/snippets/reactjs-sidebar-menu-hover-effect-89252256
 
 https://bbbootstrap.com/snippets/google-donut-chart-20598896
@@ -37,3 +39,11 @@ https://bbbootstrap.com/snippets/social-icons-ripple-effect-28585977
 https://bbbootstrap.com/snippets/custom-radio-button-91048657
 
 https://bbbootstrap.com/snippets/multiple-image-upload-preview-83255717
+
+https://bbbootstrap.com/snippets/reactjs-todo-list-delete-and-complete-task-option-46469487
+
+https://bbbootstrap.com/snippets/do-list-progress-bar-18955433
+
+https://bbbootstrap.com/snippets/contact-us-form-floating-social-icons-25962263
+
+page 11
