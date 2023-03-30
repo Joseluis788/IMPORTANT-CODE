@@ -46,4 +46,16 @@ https://bbbootstrap.com/snippets/do-list-progress-bar-18955433
 
 https://bbbootstrap.com/snippets/contact-us-form-floating-social-icons-25962263
 
-page 11
+https://www.codehim.com/bootstrap/bootstrap-5-mega-menu-responsive-examples/
+
+https://bbbootstrap.com/snippets/social-media-icons-expendable-content-89378306
+
+https://bbbootstrap.com/snippets/glowing-animation-button-hover-effect-72583761
+
+https://bbbootstrap.com/snippets/dark-light-mode-toggle-button-97517451
+
+https://bbbootstrap.com/snippets/bootstrap-glowing-register-form-83202676
+
+https://bbbootstrap.com/snippets/bootstrap-glowing-login-form-61831104
+
+page 26
