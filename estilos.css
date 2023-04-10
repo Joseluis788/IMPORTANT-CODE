@@ -1,0 +1,239 @@
+.fondoTwitter{
+    background-color: #1da1f2;
+}
+
+.iconoRedes{
+    color: white;
+    font-size: 100%;
+    transition-property: all;
+    transition-duration: 0.4s;
+    -webkit-transition-property: all;
+    -webkit-transition-duration: 0.4s;
+}
+
+.tamañoRedes:hover .iconoRedes{
+    transform: scale(1.4);
+}
+
+.iconoContacto:hover .tamañoContacto{
+    transform: scale(1.4);
+}
+
+.iconoContacto{
+    color: #f26532;
+}
+
+.bordeIconoContacto{
+    border: 1px solid #f26532;
+}
+
+.fondoFacebook{
+    background-color: #3b5998;
+}
+
+.fondoInstagram{
+    background-color: #fa4d4d;
+}
+
+.fondoLinkedin{
+    background-color: #0077b5;
+}
+
+.fondoYoutube{
+    background-color: #cd201f;
+}
+
+.fondoMenu{
+    background-color: #8bc83d;
+}
+
+.colorImportante2{
+    background-color: #f26532;
+}
+
+.fuenteMenu{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.colorTransition{
+    transition-property: all;
+    transition-timing-function: linear;
+    -webkit-transition-property: all;
+    -webkit-transition-timing-function: linear;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.colorTransition:hover{
+    color: white;
+}
+
+
+.tamañoRedes{
+    width: 18%;
+}
+
+.colorTransitionMenu:hover{
+    color: #8bc83d;
+}
+
+.botonTransition{
+    transition-property: all;
+    transition-timing-function: linear;
+    -webkit-transition-property: all;
+    -webkit-transition-timing-function: linear;
+}
+
+.botonTransition:hover{
+    background-color: #1da1f2;
+}
+
+.botonTransition2:hover{
+    background-color: #8bc83d;
+}
+
+
+.fondoLogin{
+    position: relative;
+}
+
+.fondoLogin::before{
+    content: "";
+    background-image: url(../imagenes/maxresdefault-cropped1.jpg);
+    background-repeat: no-repeat;
+    opacity: .5;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+}
+
+.login{
+    position: relative;
+}
+
+
+@media screen and (min-width: 769px) {
+    .tamañoContacto{
+        font-size: 150%;
+        transition-property: all;
+        transition-duration: 0.4s;
+        -webkit-transition-property: all;
+        -webkit-transition-duration: 0.4s;
+    }
+
+    .letraContacto1{
+        font-size: 120%;
+        color: black;
+    }
+
+    .letraContacto2{
+        font-size: 90%;
+        color: black;
+    }
+
+    .logoRecicam{
+        width: 14vw !important; 
+        height: 14vh !important;
+    }
+
+    .tamañoLogin{
+        width: 50%;
+    }
+
+    .tamañoDivLogin{
+        width: 75%;
+    }
+
+    .tamañoTitulo{
+        font-size: 200%;
+    }
+
+}
+
+@media (max-width: 950px) and (min-width: 769px)
+{
+    .logoRecicam{
+        width: 20vw !important; 
+        height: 16vh !important;
+    }
+  
+}
+
+@media (max-width: 768px) and (min-width: 576px)
+{
+    .tamañoContacto{
+        font-size: 100%;
+        transition-property: all;
+        transition-duration: 0.4s;
+        -webkit-transition-property: all;
+        -webkit-transition-duration: 0.4s;
+    }
+
+    .letraContacto1{
+        font-size: 120%;
+        color: black;  
+    }
+    
+    .letraContacto2{
+        font-size: 100%;
+        color: black;
+    }
+
+    .logoRecicam{
+        width: 30vw !important; 
+        height: 16vh !important;
+    }
+
+    .tamañoLogin{
+        width: 75%;
+    }
+
+    .tamañoDivLogin{
+        width: 75%;
+    }
+
+    .tamañoTitulo{
+        font-size: 160%;
+    }
+}
+
+@media (max-width: 575px)
+{
+
+    .letraContacto1{
+        font-size: 105%;
+        color: black;
+    }
+    
+    .letraContacto2{
+        font-size: 95%;
+        color: black;
+    }
+
+    .logoRecicam{
+        width: 34vw !important; 
+        height: 16vh !important;
+    }
+
+    .tamañoTitulo{
+        font-size: 120%;
+    }
+
+    .tamañoTextoFooter{
+        font-size: 80%;
+    }
+
+    .tamañoPreguntas{
+        font-size: 80%;
+    }
+}
+
+@media (max-width: 410px)
+{
+    .logoRecicam{
+        width: 46vw !important; 
+        height: 16vh !important;
+    }
+}
