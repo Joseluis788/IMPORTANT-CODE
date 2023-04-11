@@ -1,3 +1,5 @@
+<!-- Mirar sobre todo el formulario y los js del final que sirven para hacer desaparecer y aparecer el menú desplegable -->
+
 <?php
 require_once("funciones.php");
 
