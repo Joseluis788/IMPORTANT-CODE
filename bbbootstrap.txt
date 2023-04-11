@@ -64,4 +64,10 @@ https://bbbootstrap.com/snippets/animated-heart-buttons-77810974
 
 https://bbbootstrap.com/snippets/dropdown-megamenu-64049191
 
+https://bbbootstrap.com/snippets/our-services-card-onhover-foldable-using-font-awesome-icons-45454600
+
+https://bbbootstrap.com/snippets/default-datepicker-16487400
+
+https://bbbootstrap.com/snippets/raised-buttons-hover-effect-38173714
+
 page 49 - 59
